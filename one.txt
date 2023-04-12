@@ -2,3 +2,7 @@ siddaganga polytechnic
 batawadi
 tumkur (tq)
 tumkur (distr)
+karnataka (state)
+indian (country)
+asia (continent)
+world (planet)
