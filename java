@@ -1,4 +1,4 @@
-public class well
+public class java
 {
     public static void main(strins [] args)
     {
