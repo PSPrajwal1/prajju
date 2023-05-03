@@ -13,4 +13,4 @@ karnataka (state)
 indian (country)
 asia (continent)
 world (planet)
-milky way galaxy
+milky way (galaxy)
